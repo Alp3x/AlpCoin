@@ -1,15 +1,5 @@
 AlpCoin
 ---
-# Tinyest BlockChain
-
-Just run >> python3 alpCoinBlockchain.py
-
-The blockchain contains 35 blocks with unique Id's and hash's, following the principles of a BlockChain.
-
-Still a WIP
-
----
-
 # Second Part of the Project
 
 Nodes were created to keep a record of transactions and the node stores the transactions
